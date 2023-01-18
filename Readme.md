@@ -7,3 +7,7 @@ Projeto Habits - [Figma](https://www.figma.com/file/5ylF534mUjkHGxK0qxhZwk/Habit
   - [Fastify](https://www.fastify.io/)
   - [Tailwindcss](https://tailwindcss.com/)
   - [Vite](https://vitejs.dev/)
+  - [Prisma - erd generator](https://www.npmjs.com/package/prisma-erd-generator)
+  - [Prisma - Seeding your database](https://www.prisma.io/docs/guides/database/seed-database)
+  - [Zod - TypeScript-first schema validation](https://zod.dev)
+  - [Dayjs - parses, validates, manipulates, and displays dates and times](https://www.npmjs.com/package/dayjs)
